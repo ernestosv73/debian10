@@ -5,6 +5,6 @@ topology:
         
     PC1:
       kind: linux
-      image: docker.io/debian:10
+      image: docker.io/debian:latest
        
     
