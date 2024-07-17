@@ -5,6 +5,6 @@ topology:
         
     PC1:
       kind: linux
-      image: docker.io/debian:latest
+      image: praqma/network-multitool:extra
        
     
