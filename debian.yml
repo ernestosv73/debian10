@@ -1,10 +1,10 @@
-name: kalifull
+name: ubuntu
 
 topology:
   nodes:
         
     PC1:
       kind: linux
-      image: kalilinux/kali-last-release
+      image: ubuntu/apache2:latest
        
     
