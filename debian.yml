@@ -1,0 +1,10 @@
+name: debian
+
+topology:
+  nodes:
+        
+    PC1:
+      kind: linux
+      image: docker.io/debian:10
+       
+    
