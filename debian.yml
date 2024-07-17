@@ -1,10 +1,10 @@
-name: kali
+name: kalifull
 
 topology:
   nodes:
         
     PC1:
       kind: linux
-      image: esanchezv/kaliipv6v2.1
+      image: kalilinux/kali-last-release
        
     
