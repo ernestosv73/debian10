@@ -5,6 +5,6 @@ topology:
         
     PC1:
       kind: linux
-      image: ghcr.io/kalilinux/kali-last-release
+      image: kalilinux/kali-last-release
        
     
