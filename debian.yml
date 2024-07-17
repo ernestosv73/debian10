@@ -1,10 +1,10 @@
-name: debian
+name: kali
 
 topology:
   nodes:
         
     PC1:
       kind: linux
-      image: docker.io/ubuntu:latest
+      image: esanchezv/kaliipv6v2.1
        
     
