@@ -1,10 +1,10 @@
-name: debian
+name: ubuntu
 
 topology:
   nodes:
         
     PC1:
       kind: linux
-      image:  debian:latest
+      image:  ubuntu:24.04
        
     
