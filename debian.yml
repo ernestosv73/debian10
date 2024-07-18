@@ -5,6 +5,6 @@ topology:
         
     PC1:
       kind: linux
-      image: ubuntu:24.04
+      image: siit-dc:latest
        
     
