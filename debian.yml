@@ -5,6 +5,6 @@ topology:
         
     PC1:
       kind: linux
-      image: siit-dc:latest
+      image: vrnetlab/vr-ubuntu:noble
        
     
