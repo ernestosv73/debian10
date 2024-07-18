@@ -1,10 +1,10 @@
-name: ubuntu
+name: debian
 
 topology:
   nodes:
         
     PC1:
       kind: linux
-      image:  debian:bookworm-20240701
+      image:  debian:latest
        
     
