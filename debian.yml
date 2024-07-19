@@ -1,10 +1,10 @@
-name: alpine
+name: ubuntu
 
 topology:
   nodes:
         
     PC1:
       kind: linux
-      image: wbitt/network-multitool:extra
+      image: esanchezv/siit-dc:latest
        
     
