@@ -1,10 +1,10 @@
-name: ubuntu
+name: alpine
 
 topology:
   nodes:
         
     PC1:
       kind: linux
-      image: esanchezv/kaliipv6v2.1:latest
+      image: wbitt/network-multitool:extra
        
     
